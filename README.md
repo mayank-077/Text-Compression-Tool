@@ -32,3 +32,8 @@ Each circle represents a tree node with below properties.
 * Unique ID of a node
 * Weight of a node
 * Character (leaf nodes only)
+
+## Tree
+
+![test](https://github.com/user-attachments/assets/ff023c4a-f520-43cf-9644-ec5f5d2fcc22)
+
